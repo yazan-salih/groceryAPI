@@ -1,0 +1,9 @@
+{
+  "shopping":[
+    {
+      "id": 0,
+      "items":["fruits", "milk", "potates"],
+      "prices":[30, 8, 14]
+    }
+  ] 
+}
