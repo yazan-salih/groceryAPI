@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yazan-salih/groceryAPI"
+    "url": "git+https://github.com/yazan-salih/groceryAPI.git"
   },
   "author": "",
   "license": "ISC",
